@@ -13,7 +13,7 @@ $(document).ready(function() {
             const square = $('<div>', { class: 'square' });
             const icon = $('<img>', {
                 class: 'icon',
-                src: "/static/img/stars.png",
+                src: "https://raw.githubusercontent.com/Zurk1337/NWM1nes/refs/heads/main/static/img/stars.png",
                 alt: 'icon'
             });
             squareWrapper.append(square).append(icon);
