@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Intro';
-    src: url('../static/intro.otf') format('opentype');
+    src: url('https://zurk1337.github.io/NWM1nes/main/static/intro.otf') format('opentype');
 }
 
 body {
